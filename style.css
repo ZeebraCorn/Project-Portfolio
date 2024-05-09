@@ -368,6 +368,9 @@ a {
   margin: 0.75rem 0 2rem 0;
   flex: 1;
 }
+.project__content .resp {
+  display: none;
+}
 
 .photos {
   margin-top: 3.5rem;
