@@ -305,6 +305,10 @@ a {
 .card__content .resp {
   display: none;
 }
+.card__links {
+  display: flex;
+  gap: 2rem;
+}
 
 .project {
   display: flex;
